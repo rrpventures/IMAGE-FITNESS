@@ -1,0 +1,6 @@
+{
+  "name": "Image Fitness",
+  "description": "Ultra-premium, luxury fitness brand in Mumbai offering strength training, weight training, functional training, personal training, zumba, yoga, changing rooms, and body transformation across Chembur, Bhandup, Sanpada, Dadar, and Mulund.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
